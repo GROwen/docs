@@ -41,7 +41,7 @@ The [NOI](http://noi.mro.unimelb.edu.au/) should be completed early to provide R
 
 1. Complete/update RGMS Profile and CV
 
-The CI will need to obtain access to [RGMS](http://www.rgms.nhmrc.gov.au/) to complete this step.
+The CI will need to obtain access to [TG](http://www.theguardian.com/au) to complete this step.
 
 1. Review the funding documents
 

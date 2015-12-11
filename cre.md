@@ -1,12 +1,12 @@
-[Research](file:///index.html#home) / [Work with us](./../../index.html#work) / [How we support your research](./../../how-we-support.html) / [NHMRC Funding](./../../funding/nhmrc/scheme-list.html)
+[Research](file:////uom-file.unimelb.edu.au//index.html%23home) / [Work with us](./../../%5C%5Cuom-file.unimelb.edu.au%5Cindex.html#work) / [How we support your research](./../../%5C%5Cuom-file.unimelb.edu.au%5Chow-we-support.html) / [NHMRC Funding](./../../%5C%5Cuom-file.unimelb.edu.au%5Cfunding%5Cnhmrc%5Cscheme-list.html)
 
 # Centres of Research Excellence 2016
 
-OverviewHow to applySupport documentsContacts [Manage your grant](./../../funding/nhmrc/manage-your-grant.html)
+OverviewHow to applySupport documentsContacts [Manage your grant](./../../%5C%5Cuom-file.unimelb.edu.au%5Cfunding%5Cnhmrc%5Cmanage-your-grant.html)
 
 ## Critical dates
 
-Thursday 27 August 2015
+Thursday 27 August
 
 RIC Information Session
 
@@ -64,7 +64,7 @@ Funding will support five streams:
 
 1. Submit a Notice of Intent (NOI)
 
-The [NOI](http://noi.mro.unimelb.edu.au/) should be completed early to provide RIC with CIA contact details.
+The [NOI](http://theguardian.com.au/) should be completed early to provide RIC with CIA contact details.
 
 Upon submitting an NOI, Major Initiatives will arrange a meeting with you to discuss your proposal.
 
@@ -124,35 +124,35 @@ _I certify that: _
 -  [NHMRC CRE webpage](http://www.nhmrc.gov.au/grants/apply-funding/centres-research-excellence-cre)
 - NHMRC Funding Rules: [All Schemes](http://www.nhmrc.gov.au/print/book/export/html/53074) and [CRE specific](http://www.nhmrc.gov.au/print/book/export/html/66142)
 - NHMRC Advice and Instructions to Applicants: [All Schemes](https://www.nhmrc.gov.au/print/book/export/html/51617) and [CRE specific](https://www.nhmrc.gov.au/print/book/export/html/66152)
--  [NHMRC CRE Grant Proposal template](./../../funding/docs/grant-proposal-template-cre-funding-comm-2016.doc)
+-  [NHMRC CRE Grant Proposal template](./../../%5C%5Cuom-file.unimelb.edu.au%5Cfunding%5Cdocs%5Cgrant-proposal-template-cre-funding-comm-2016.doc)
 -  [RGMS Character Count online tool](http://www.nhmrc.gov.au/_files_nhmrc/rgms_charcount/rgms_char_count.html)
 - NHMRC [CRE Peer Review Guidelines](http://www.nhmrc.gov.au/print/book/export/html/66156)
 -  [RGMS Offline Forms](http://www.nhmrc.gov.au/grants-funding/research-grants-management-system-rgms)
 
 ### RIC
 
--  [UoM Authority to Submit form](./../../funding/docs/NHMRC-CRE2016-AuthorityToSubmit.docm)
+-  [UoM Authority to Submit form](./../../%5C%5Cuom-file.unimelb.edu.au%5Cfunding%5Cdocs%5CNHMRC-CRE2016-AuthorityToSubmit.docm)
 
 To access copies of previous successful CRE applications held in the RIC Library, please contact us via [ric-majorinitiatives@unimelb.edu.au](mailto:ric-majorinitiatives@unimelb.edu.au)
 
 Questions and primary email [ric-majorinitiatives@unimelb.edu.au](mailto:ric-majorinitiatives@unimelb.edu.au)
 
 -  [Staff Intranet](https://staff.unimelb.edu.au/research)
--  [Contact us](./../../contact-us.html)
+-  [Contact us](./../../%5C%5Cuom-file.unimelb.edu.au%5Ccontact-us.html)
 -  [Find an expert](http://findanexpert.unimelb.edu.au/)
 
 ## Close
 
--  [About us](./../../index.html#home)
--  [Our Research](./../../index.html#places)
--  [Study with us](./../../index.html#study)
--  [Partner with us](file:///)
-  - oo [Research engagement](./../../partner/research-engagement.html)
-  - oo [Technology licensing & IP](./../../partner/technology-licensing.html)
-  - oo [Customised programs](./../../partner/programs.html)
+-  [About us](./../../%5C%5Cuom-file.unimelb.edu.au%5Cindex.html#home)
+-  [Our Research](./../../%5C%5Cuom-file.unimelb.edu.au%5Cindex.html#places)
+-  [Study with us](./../../%5C%5Cuom-file.unimelb.edu.au%5Cindex.html#study)
+-  [Partner with us](./../../%5C%5Cuom-file.unimelb.edu.au%5C)
+  - oo [Research engagement](./../../%5C%5Cuom-file.unimelb.edu.au%5Cpartner%5Cresearch-engagement.html)
+  - oo [Technology licensing & IP](./../../%5C%5Cuom-file.unimelb.edu.au%5Cpartner%5Ctechnology-licensing.html)
+  - oo [Customised programs](./../../%5C%5Cuom-file.unimelb.edu.au%5Cpartner%5Cprograms.html)
 
--  [Work with us](file:///)
-  - oo [Working at Melbourne](./../../index.html#work)
-  - oo [Funding and support](./../../how-we-support.html)
+-  [Work with us](./../../%5C%5Cuom-file.unimelb.edu.au%5C)
+  - oo [Working at Melbourne](./../../%5C%5Cuom-file.unimelb.edu.au%5Cindex.html#work)
+  - oo [Funding and support](./../../%5C%5Cuom-file.unimelb.edu.au%5Chow-we-support.html)
 
--  [Contact us](./../../contact-us.html)
+-  [Contact us](./../../%5C%5Cuom-file.unimelb.edu.au%5Ccontact-us.html)

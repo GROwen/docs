@@ -69,7 +69,7 @@ Certify the application via the 'CI Certification' function in [RGMS](http://www
 
 - UOM Authority to Submit form
 
-CIA to deliver a hardcopy of the fully completed UOM Authority to Submit form (the full application is unnecessary) to RIC before 5pm on the final _internal closing date_. This form should include:
+CIA to deliver a hardcopy of the fully completed UOM Authority to Submit form (the full application is unnecessary) to the RIC Health and Medical team at new 2016 location – Ground Floor, 780 Elizabeth Street (near corner Grattan/Elizabeth St) before 5pm on the final _internal closing date_. This form should include:
 
 -
   - ooCompleted compliance and eligibility section
@@ -96,7 +96,6 @@ Once the application has been submitted to NHMRC, the CIA will receive RGMS noti
 -  [RGMS Character Count](http://www.nhmrc.gov.au/_files_nhmrc/rgms_charcount/rgms_char_count.html?utm_medium=email&utm_campaign=NHMRC+Research+Tracker+-+6+February+2015&utm_content=NHMRC+Research+Tracker+-+6+February+2015+CID_18f41afa614855d6a629096152b72f52&utm_source=Mailbuild&utm_term=NHMRC%20website) online tool \*NEW\*
 -  [RGMS Offline Forms](http://www.nhmrc.gov.au/grants-funding/research-grants-management-system-rgms) (review via RGMS entry only)
 -  [RGMS User Guides](http://www.nhmrc.gov.au/grants-funding/research-grants-management-system-rgms/rgms-training-program)
--  [Research Fellowship CV requirements](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2015/1-curriculum-vitae-cv-requirements)
 -  [Research Classification Guides](http://www.nhmrc.gov.au/grants-funding/policy/australian-standard-research-classifications-and-nhmrc-research-keywords-and-p)
 - Indigenous Research Excellence Criteria - see [Section 6.3 of the NHMRC Funding Rules 2016](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/6-assessment-criteria)
 

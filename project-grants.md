@@ -1,0 +1,153 @@
+[Research](http://research.unimelb.edu.au/index.html#home) / [Work with us](http://research.unimelb.edu.au/index.html#work) / [How we support your research](http://research.unimelb.edu.au/how-we-support.html) / [NHMRC Funding](http://research.unimelb.edu.au/funding/nhmrc/scheme-list.html)
+
+## Project Grants
+
+OverviewHow to applySupport documentsContacts [Manage your grant](http://research.unimelb.edu.au/funding/nhmrc/manage-your-grant.html)
+
+_The information and support documents on this scheme are for reference ONLY and will be updated as soon as the latest versions are available._
+
+### **Critical dates**
+
+Wednesday **13 January 2016**
+
+**Applications open in RGMS**
+
+Monday **15 February 2016**
+
+**1**
+
+# st
+**Internal date for review by RIC**
+
+Wednesday **17 February 2016**
+
+**Minimum Data due**
+
+Thursday **10 March 2016**
+
+**Final submission due to RIC**
+
+### **Overview**
+
+The objective of the Project Grants scheme is to support the creation of new knowledge by funding the best investigator-initiated research project plan of five years or less, in any area relevant to human health.
+
+A Project Grant application must outline a research proposal that describes the investigation of a new research idea(s). The proposal must support a particular set of aims and the budget must be directed to those aims. Single investigators or teams of up to 10 Chief Investigators (CIs) are supported as well as New Investigators (early career investigators).
+
+Applicants can choose whether to apply for funding from only one or several organisations that offer funding through the NHMRC Project Grants scheme. Applications for the following funding bodies will be required to complete Supplementary Questions in addition to the standard NHMRC Project Grants application:
+
+- Cancer Council Victoria funds projects between one and three years, providing up to $100,000 per annum
+- Cancer Australia varies between the three funding categories, funding projects between one and three years and providing up to $100,000 or $200,000 per annum depending on the category.
+
+1. Submit a Notice of Intent (NOI)
+
+The [NOI](http://noi.mro.unimelb.edu.au/) should be completed early to provide RIC with CIA contact details.
+
+1. Complete/update RGMS Profile and CV
+
+The CI will need to obtain access to [RGMS](http://www.rgms.nhmrc.gov.au/) to complete this step.
+
+1. Review the funding documents
+
+The CI should read the NHMRC _All Schemes_ and _Practitioner Fellowship Specific Funding Rules_, _Advice and Instructions to Applicants_ and _Guide to Peer Review_ documents. These documents can be found on the _Support documents_ tab above.
+
+1. Complete draft application in RGMS
+
+Complete the draft application in [RGMS](http://www.rgms.nhmrc.gov.au/). A pre-formatted Microsoft Word [template](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/projects/2015/project_grants_grant_proposal_template_2015.doc) for the Grant Proposal should be downloaded from the NHMRC website. Applicants must use this template to complete their Grant Proposal.
+
+1. Email a 'Review ready' application to RIC
+
+Email a draft application to [RIC](mailto:nhmrc-project@unimelb.edu.au) for review. A hardcopy is not required.
+
+-
+  - ooUse the 'Request Latest Snapshot Report' function in [RGMS](http://www.rgms.nhmrc.gov.au/).
+  - ooEmail two snapshot reports, the draft Grant Proposal (as a PDF) and a completed UOM Lodgement Form. A UOM Authority to Submit form is not required at this stage.
+  - ooIf applicable, also email Supplementary Questions for Cancer Australia and Cancer Council Victoria.
+
+RIC will send an email upon receipt.
+
+- Complete the application after feedback
+
+After taking feedback from RIC into consideration, complete the application in [RGMS](http://www.rgms.nhmrc.gov.au/). It is suggested advice is sought from colleagues, Faculty Mentors, etc. before finalising the application.
+
+- Certify the application in RGMS
+
+Certify the application via the 'CI Certification' function in [RGMS](http://www.rgms.nhmrc.gov.au/). Snapshot reports will be automatically generated, please wait for these to be produced. The application will be locked once certified and status then will be Submitted to RAO.
+
+- Cancer Australia and/or Cancer Council Victoria Supplementary Question forms
+
+The only documents that should be sent to RIC are the Cancer Australia and/or Cancer Council Victoria Supplementary Question forms. The Supplementary Questions must be provided as a .doc or .docx file to [RIC](mailto:nhmrc-project@unimelb.edu.au) once the application has been certified and before delivery of the UOM Authority to Submit form.
+
+- UOM Authority to Submit form
+
+CIA to deliver a hardcopy of the fully completed UOM Authority to Submit form (the full application is unnecessary) to RIC before 5pm on the final _internal closing date_. This form should include:
+
+-
+  - ooCompleted compliance and eligibility section
+  - ooSignature of the CI and Head of Department/Institute Director.
+  - ooWritten evidence (e.g. email) from all CIs and AIs. This evidence must clearly state the application ID number and include the relevant "I certify..." text provided in the Authority to Submit form. Suggested wording is provided in the accompanying support document. All written evidence must be attached to the finished Authority to Submit form with the other signatures.
+
+A hardcopy of the RGMS application is not required.
+
+Note that this is an NHMRC requirement and the application cannot be submitted to NHMRC until RIC receives this form.
+
+- RIC to submit the application to NHMRC
+
+RIC will then submit the application to NHMRC and CIA will receive a RGMS notification once this has been done.
+
+#### **NHMRC**
+
+-  [NHMRC Project Grant](http://www.nhmrc.gov.au/grants-funding/apply-funding/project-grants)
+- Funding Rules: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2015/nhmrc-funding-rules-2015) and [Project Grant specific](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2015/project-grants-scheme-specific-funding-rules)
+- Advice and Instructions to Applicants: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2015-0) and [Project Grant specific](http://www.nhmrc.gov.au/book/project-grants-scheme-specific-advice-and-instructions-applicants)
+-  [Grant Proposal template](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/projects/2015/project_grants_grant_proposal_template_2015.doc)
+-  [New Investigator additional information](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/funding/2014/project_grants_new_investigator_cancer_australia_additional_guidance(1).pdf)
+-  [Project Category Grant Descriptors](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/funding_rules/2015/project_grants_funding_rules_2015_attachment_a_141215.pdf)
+-  [Budget mechanism for funding commencing 2016](http://www.nhmrc.gov.au/grants-funding/apply-funding/budget-mechanism-funding-commencing-2016)
+-  [Direct Research Costs Guidelines (DRCs)](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/funding/funded/manage/policy/drc_principles%20guidelines_1%20january_2014.pdf)
+-  [RGMS Offline Forms](https://www.rgms.nhmrc.gov.au/login/login.fcc?TYPE=33554433&REALMOID=06-000753f3-5a50-1448-bd78-d0f1ac10300d&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=d6qLnZEXRypwxyUDSA8a0TsiCUYouvBsVRPXNmz4sH1FVWe5WeGVDgdr44r0hjmb&TARGET=-SM-http%3a%2f%2fwww%2ergms%2enhmrc%2egov%2eau%2f)) (accessible via RGMS entry only, under _Applicants_ tab)
+-  [RGMS Character Count online tool](http://www.nhmrc.gov.au/_files_nhmrc/rgms_charcount/rgms_char_count.html?utm_medium=email&utm_campaign=NHMRC+Research+Tracker+-+6+February+2015&utm_content=NHMRC+Research+Tracker+-+6+February+2015+CID_18f41afa614855d6a629096152b72f52&utm_source=Mailbuild&utm_term=NHMRC%20website)
+
+#### **RIC**
+
+-  [UoM Lodgement Coversheet](http://research.unimelb.edu.au/funding/docs/nhmrcproject2016_lodgementform_v1.docx)
+-  [UoM Authority to Submit Form](http://research.unimelb.edu.au/funding/docs/nhmrcproject2016_authoritytosubmit_v2.docx)
+-  [Suggested wording for CI & AI written consent](http://research.unimelb.edu.au/funding/docs/nhmrc_2016project_wording_for_written_consent_v1.doc)_\*NEW 26/2/15\*_
+- Application Library: Copies of previous successful Project Grant applications held in the [RIC library](http://grantslibrary.mro.unimelb.edu.au/) (UOM login required)
+- Information Seminars Part 1 and Part 2 - [access presentation slides](https://mro.unimelb.edu.au/professional-development/materials-past-seminars) (Available to UOM applicants only & requires UOM login)
+- List of [Faculty Grant Coordinators/Mentors](http://research.unimelb.edu.au/funding/faculty-grant-coordinators.html)
+
+#### **Other**
+
+-  [Cancer Australia documentation](http://canceraustralia.gov.au/research-data/research/priority-driven-research/2015-pdccrs-round-%E2%80%93-information-applicants)
+-  [Cancer Council Victoria documentation](http://www.cancervic.org.au/research/biomedical/grants-in-aid)
+-  [RAO details for supplementary questions](http://research.unimelb.edu.au/funding/docs/nhmrc_2016project_rao_details_for_supp_qus_v1.doc)
+
+Questions and primary email: [nhmrc-project@unimelb.edu.au](mailt:nhmrc-project@unimelb.edu.au)
+
+### **Key contacts**
+
+| Sybil Woolfson | _8344 2062_ |
+| --- | --- |
+| Anne Coco | _8344 8265_ |
+
+-  [Staff Intranet](https://staff.unimelb.edu.au/research)
+-  [Contact us](http://research.unimelb.edu.au/contact-us.html)
+-  [Find an expert](http://findanexpert.unimelb.edu.au/)
+
+### **Close**
+
+-  [About us](http://research.unimelb.edu.au/index.html#home)
+-  [Our Research](http://research.unimelb.edu.au/index.html#places)
+-  [Study with us](http://research.unimelb.edu.au/index.html#study)
+-  [Partner with us](http://research.unimelb.edu.au/)
+
+-
+  - oo [Research engagement](http://research.unimelb.edu.au/partner/research-engagement.html)
+  - oo [Technology licensing & IP](http://research.unimelb.edu.au/partner/technology-licensing.html)
+  - oo [Customised programs](http://research.unimelb.edu.au/partner/programs.html)
+
+-  [Work with us](http://research.unimelb.edu.au/)
+  - oo [Working at Melbourne](http://research.unimelb.edu.au/index.html#work)
+  - oo [Funding and support](http://research.unimelb.edu.au/how-we-support.html)
+
+-  [Contact us](http://research.unimelb.edu.au/contact-us.html)

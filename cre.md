@@ -36,6 +36,10 @@ Wednesday **6 January 2016**
 
 **Final Certified Application to RIC**
 
+Today please
+
+**Here's something new that you have to do.**
+
 ### **Overview**
 
 The purpose of the NHMRC Centres of Research Excellence (CRE) scheme is to support research that aims to improve health outcomes and promote/or improve translation of research outcomes into policy and/or practice. The CRE scheme will also support researchers in capacity building activities, including in specific areas of need identified by NHMRC.

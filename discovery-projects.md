@@ -6,7 +6,7 @@ OverviewHow to applySupport documentsContacts [Manage your grant](http://www.res
 
 ### **Critical dates**
 
-**December 2015**
+**9 December 2015**
 
 **Proposals open in RMS**
 
@@ -18,11 +18,11 @@ Wednesday **17 February 2016**
 
 **Request not to assess**
 
-Wednesday **24 February 2016**
+Thursday **25 February 2016**
 
 **Final Application Submission due to RIC**
 
-Wednesday **2 March 2016**
+Thursday **3 March 2016**
 
 **Final Applications due to ARC**
 
@@ -53,7 +53,7 @@ All CIs and PIs must obtain access to [RMS 2.0](https://rms.arc.gov.au) and upda
 
 1. Review documentation
 
-Review the Discovery Project 2016 Funding Rules and the Instructions to Applicants and the FAQs. These documents can be found under the _Support documents_ tab.
+Review the Discovery Project 2017 Funding Rules and the Instructions to Applicants and the FAQs. These documents can be found under the _Support documents_ tab.
 
 1. Complete the draft application in RMS 2.0
 
@@ -61,12 +61,14 @@ Log in to [RMS 2.0](https://rms.arc.gov.au) and complete the draft application.
 
 1. Submit 'Review ready' application to RIC
 
-Submit application to RIC within the RIC internal submission period. Include the following:
+Submit  application via email  to RIC within the RIC internal submission period. Include the following:
 
 -
-  - ooA hard copy of the complete review ready draft application
+  - ooPDF of the complete review ready draft application
   - ooRIC review coversheet
-  - ooIf applicable, the applicant should include an electronic copy of the _Request Not to Assess_ form if they would like to request the exclusion of a potential assessor. Email this to [ric-arcdiscovery@unimelb.edu.au](mailto:ric-arcdiscovery@unimelb.edu.au)
+  - ooIf applicable, the applicant should include an electronic copy of the _Request Not to Assess_ form if they would like to request the exclusion of a potential assessor.
+
+**Using the subject line <DP17 Submission\_DP17 ID number\_Lead CI> Email submission to** [**ric-arcdiscovery@unimelb.edu.au**](mailto:ric-arcdiscovery@unimelb.edu.au)
 
 - Application review
 
@@ -124,13 +126,13 @@ Close
 
 - The [ARC Discovery Projects](http://www.arc.gov.au/discovery-projects) website
 -  [Funding Rules](http://www.arc.gov.au/sites/default/files/filedepot/Public/NCGP/DP17/Discovery_Programme_Funding_Rules_2015.pdf)
-- Instructions to Applicants _(Coming soon)_
+-  [Instructions to Applicants](http://www.arc.gov.au/sites/default/files/filedepot/Public/NCGP/DP17/DP17_instructions_to_Applicants.pdf)
 -  [Changes to Funding Rules 2017](http://www.arc.gov.au/sites/default/files/filedepot/Public/NCGP/DP17/DP16_to_DP17_Funding_Rules_changes.pdf)
 -  [Cross-Scheme Eligibility FAQs](http://www.arc.gov.au/sites/default/files/filedepot/Public/NCGP/DP17/Discovery_Programme_FAQs_2015.pdf)
-- FAQs _(Coming soon)_
+-  [FAQs](http://www.arc.gov.au/sites/default/files/filedepot/Public/NCGP/DP17/Discovery_Programme_16-17_draft_funding_agreement_.pdf)
 -  [ARC Medical/Dental Definition](http://www.arc.gov.au/arc-medical-research-policy)
 -  [ARC Request Not to Assess form](http://www.arc.gov.au/request-not-assess)
-- Funding Agreement _(Coming soon)_
+-  [Draft Funding Agreement](http://www.arc.gov.au/sites/default/files/filedepot/Public/NCGP/DP17/Discovery_Programme_16-17_draft_funding_agreement_.pdf)
 -  [ARC College of Experts](http://www.arc.gov.au/arc-college-experts)
 -  [Australian Government Strategic Research Priorities](http://innovation.gov.au/research/Pages/StrategicResearchPriorities.aspx)
 
@@ -139,10 +141,10 @@ Close
 -  [Register a NOI](http://noi.mro.unimelb.edu.au/)
 - RIC Review Coversheet _(Coming soon)_
 - RIC Authority to Submit form _(Coming soon)_
-- RIC Discovery Projects 2016 Applicant Guide _(Coming soon)_
-- Discovery Projects 2016 Research Environment Guide _(Coming soon)_
+- RIC Discovery Projects 2017 Applicant Guide –New: 22/12/15
+- Discovery Projects 2017 Research Environment Guide –New: 22/12/15
 -  [Grants Library of Successful Applications](http://grantslibrary.mro.unimelb.edu.au/)[AJC1]
-- Questions F12 Template _(Coming soon)_
+- Questions F13 Template –New: 22/12/15
 - Part G Research Support Template _(Coming soon)_
 - RIC Discovery Projects seminar presentation slides
 
@@ -150,7 +152,7 @@ _(Coming soon)_
 
 -  [List of Faculty Grant Coordinators/Mentors](http://www.research.unimelb.edu.au/funding/faculty-grant-coordinators.html)
 -  [How to complete Management of Data](http://researchdata.unimelb.edu.au/arc) in section C1
-- Discovery Projects 2016 Salary Scales and Budget Preparation _(Coming soon)_
+- Discovery Projects 2017 Salary Scales and Budget Preparation –New: 22/12/15
 -  [Research Impact Measurement](http://library.unimelb.edu.au/rilas) (this can assist CIs with metrics for sections F13 and F14).
 
 #### **How to write a rejoinder**
@@ -164,7 +166,7 @@ Questions and primary [ric-arcdiscovery@unimelb.edu.au](mailto:ric-arcdiscovery@
 
 ### **Key contacts**
 
-| Leah Mount _(primary contact)_ | _+61 3 8344 2012_ |
+| Leah Mount **Angela Baklavas** +61 3 83442018 | _+61 3 8344 2012_ |
 | --- | --- |
 
 -  [Staff Intranet](https://staff.unimelb.edu.au/research)

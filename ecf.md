@@ -12,7 +12,7 @@ Wednesday **13 January 2016**
 
 **Applications open in RGMS**
 
-Monday **25 January 2016**
+WEDNESDAY **27**** January 2016**
 
 **1**
 

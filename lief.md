@@ -142,9 +142,9 @@ RIC will submit the application to the ARC before the external deadline.
 
 | FACULTY | CONTACT | DUE DATE |
 | --- | --- | --- |
-| ABP | [Gen Ford](mailto:gford@unimelb.edu.au?subject=LIEF%202016) | Refer to Faculty |
+| ABP | [Gen Ford](mailto:gford@unimelb.edu.au?subject=LIEF%202016) | Friday 26 February 2016 |
 | Arts | [Katrin Steinack](mailto:katrins@unimelb.edu.au?subject=LIEF%202016) | Refer to Faculty |
-| Education | [Alice Boland](mailto:aliceb@unimelb.edu.au?subject=LIEF%202016) | Refer to Faculty |
+| Education | [Jacinta Ridge](mailto:mgse-grants@unimelb.edu.au?subject=LIEF%202016) | Monday 29 February 2016 |
 | Engineering | [Lyle Daymond](mailto:l.daymond@unimelb.edu.au?subject=Engineering%20LIEF%20Confirmation%20of%20Funding) | Monday 22 February 2016 |
 | FBE | [Elise Grosser](mailto:elise.grosser@unimelb.edu.au?subject=LIEF%202016) | Refer to Faculty |
 | Law | [Mas Generis](mailto:generism@unimelb.edu.au?subject=LIEF%202016) | Friday 26 February 2016 |

@@ -1,8 +1,8 @@
-[Research](http://research.unimelb.edu.au/index.html#home) / [Work with us](http://research.unimelb.edu.au/index.html#work) / [How we support your research](http://research.unimelb.edu.au/how-we-support.html) / [NHMRC Funding](http://research.unimelb.edu.au/funding/nhmrc/scheme-list.html)
+[Research](https://research.unimelb.edu.au/index.html#home) / [Work with us](https://research.unimelb.edu.au/index.html#work) / [How we support your research](https://research.unimelb.edu.au/how-we-support.html) / [NHMRC Funding](https://research.unimelb.edu.au/funding/nhmrc/scheme-list.html)
 
 ## Development Grants
 
-OverviewHow to applySupport documentsContacts [Manage your grant](http://research.unimelb.edu.au/funding/nhmrc/manage-your-grant.html)
+OverviewHow to applySupport documentsContacts [Manage your grant](https://research.unimelb.edu.au/funding/nhmrc/manage-your-grant.html)
 
 ### **Critical dates**
 
@@ -45,7 +45,7 @@ Each CI will need to obtain access to [RGMS](http://www.rgms.nhmrc.gov.au/) to c
 
 1. Review the funding documents
 
-The CIA should read the NHMRC [Funding Rules](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016), [Key Changes](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/development-grants-funding-rules/2-key-changes) and [Advice and Instructions to Applicants](https://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/development-grants-specific-advice-and), as well as review the [UoM Lodgement Form](http://research.unimelb.edu.au/funding/docs/NHMRC-2017-Development-Grants-lodgement-form.docm) and [UoM Authority to Submit](http://research.unimelb.edu.au/funding/docs/nhmrc-development-%20grants-2017-authoritytosubmit-v2-doc.docm) form.
+The CIA should read the NHMRC [Funding Rules](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016), [Key Changes](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/development-grants-funding-rules/2-key-changes) and [Advice and Instructions to Applicants](https://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/development-grants-specific-advice-and), as well as review the [UoM Lodgement Form](https://research.unimelb.edu.au/funding/docs/NHMRC-2017-Development-Grants-lodgement-form.docm) and [UoM Authority to Submit](https://research.unimelb.edu.au/funding/docs/nhmrc-development-%20grants-2017-authoritytosubmit-v2-doc.docm) form.
 
 1. Complete draft application
 
@@ -94,7 +94,7 @@ RIC will submit the application NHMRC and the CIA will receive RGMS notification
 -  [NHMRC Development Grant](https://www.nhmrc.gov.au/grants-funding/apply-funding/development-grants)
 - Funding Rules: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/NHMRC-funding-rules-2016) and [Development Grants Specific](https://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/development-grants-funding-rules)
 - Advice and Instructions to Applicants: [All Schemes](https://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016) and [Development Grants Specific](https://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/development-grants-specific-advice-and)
-- Grant Proposal Template
+-  [Grant Proposal Template](https://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/development/2015/grant_proposal_template_-_dev_grants_-_funding_commencing_2017_v2.doc)
 -  [NHMRC Budget Mechanism](https://www.nhmrc.gov.au/grants-funding-apply-funding/budget-mechanism-funding-commencing-2017)
 -  [Direct Research Costs Guidelines](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/funding/funded/manage/policy/drc_principles%20guidelines_1%20january_2014.pdf) (DRCs)
 -  [RGMS Character Count online tool](http://www.nhmrc.gov.au/_files_nhmrc/rgms_charcount/rgms_char_count.html?utm_medium=email&utm_campaign=NHMRC+Research+Tracker+-+6+February+2015&utm_content=NHMRC+Research+Tracker+-+6+February+2015+CID_18f41afa614855d6a629096152b72f52&utm_source=Mailbuild&utm_term=NHMRC%20website)
@@ -104,11 +104,11 @@ RIC will submit the application NHMRC and the CIA will receive RGMS notification
 
 #### **RIC**
 
--  [Authority to Submit form](http://research.unimelb.edu.au/funding/docs/nhmrc-development-%20grants-2017-authoritytosubmit-v2-doc.docm)
--  [Suggested wording for CI & AI written consent](http://research.unimelb.edu.au/funding/docs/nhmrc_2016_development_grant_wording_for_written_consent_v2.doc)
--  [Lodgement form](http://research.unimelb.edu.au/funding/docs/NHMRC-2017-Development-Grants-lodgement-form.docm)
+-  [Authority to Submit form](https://research.unimelb.edu.au/funding/docs/nhmrc-development-%20grants-2017-authoritytosubmit-v2-doc.docm)
+-  [Suggested wording for CI & AI written consent](https://research.unimelb.edu.au/funding/docs/nhmrc_2016_development_grant_wording_for_written_consent_v2.doc)
+-  [Lodgement form](https://research.unimelb.edu.au/funding/docs/NHMRC-2017-Development-Grants-lodgement-form.docm)
 - Copies of previous successful Development Grant applications held in the RIC library are accessible by contacting RIC via email at [nhmrc-project@unimelb.edu.au](mailto:nhmrc-project@unimelb.edu.au)
--  [List of Faculty Grant Coordinators/Mentors](http://research.unimelb.edu.au/funding/faculty-grant-coordinators.html)
+-  [List of Faculty Grant Coordinators/Mentors](https://research.unimelb.edu.au/funding/faculty-grant-coordinators.html)
 
 Questions and primary email [nhmrc-project@unimelb.edu.au](mailto:nhmrc-project@unimelb.edu.au)
 
@@ -118,23 +118,23 @@ Questions and primary email [nhmrc-project@unimelb.edu.au](mailto:nhmrc-project@
 | --- | --- |
 
 -  [Staff Intranet](https://staff.unimelb.edu.au/research)
--  [Contact us](http://research.unimelb.edu.au/contact-us.html)
+-  [Contact us](https://research.unimelb.edu.au/contact-us.html)
 -  [Find an expert](http://findanexpert.unimelb.edu.au/)
 
 ### **Close**
 
--  [About us](http://research.unimelb.edu.au/index.html#home)
--  [Our Research](http://research.unimelb.edu.au/index.html#places)
--  [Study with us](http://research.unimelb.edu.au/index.html#study)
--  [Partner with us](http://research.unimelb.edu.au/)
+-  [About us](https://research.unimelb.edu.au/index.html#home)
+-  [Our Research](https://research.unimelb.edu.au/index.html#places)
+-  [Study with us](https://research.unimelb.edu.au/index.html#study)
+-  [Partner with us](https://research.unimelb.edu.au/)
 
 -
-  - oo [Research engagement](http://research.unimelb.edu.au/partner/research-engagement.html)
-  - oo [Technology licensing & IP](http://research.unimelb.edu.au/partner/technology-licensing.html)
-  - oo [Customised programs](http://research.unimelb.edu.au/partner/programs.html)
+  - oo [Research engagement](https://research.unimelb.edu.au/partner/research-engagement.html)
+  - oo [Technology licensing & IP](https://research.unimelb.edu.au/partner/technology-licensing.html)
+  - oo [Customised programs](https://research.unimelb.edu.au/partner/programs.html)
 
--  [Work with us](http://research.unimelb.edu.au/)
-  - oo [Working at Melbourne](http://research.unimelb.edu.au/index.html#work)
-  - oo [Funding and support](http://research.unimelb.edu.au/how-we-support.html)
+-  [Work with us](https://research.unimelb.edu.au/)
+  - oo [Working at Melbourne](https://research.unimelb.edu.au/index.html#work)
+  - oo [Funding and support](https://research.unimelb.edu.au/how-we-support.html)
 
--  [Contact us](http://research.unimelb.edu.au/contact-us.html)
+-  [Contact us](https://research.unimelb.edu.au/contact-us.html)

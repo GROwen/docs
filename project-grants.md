@@ -54,7 +54,7 @@ The CI should read the _NHMRC Funding Rules 2016 __and__ Project Grants scheme-s
 
 1. Complete draft application in RGMS
 
-Complete the draft application in [RGMS](http://www.rgms.nhmrc.gov.au/). A pre-formatted Microsoft Word [template](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/projects/2015/final_2016_pg_grant_proposal_template.docx) for the Grant Proposal should be downloaded from the NHMRC website. Applicants must use this template to complete their Grant Proposal.
+Complete the draft application in [RGMS](http://www.rgms.nhmrc.gov.au/). A pre-formatted Microsoft Word [template (revised version released)](https://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/development/2015/grant_proposal_template_-_2016_december_project_grants.docx) for the Grant Proposal should be downloaded from the NHMRC website. Applicants must use this template to complete their Grant Proposal.
 
 1. Email a 'Review ready' application to RIC
 
@@ -101,9 +101,9 @@ RIC will then submit the application to NHMRC and CIA will receive a RGMS notifi
 -  [NHMRC Project Grant](http://www.nhmrc.gov.au/grants-funding/apply-funding/project-grants)
 - Funding Rules: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/NHMRC-funding-rules-2016) and [Project Grant specific](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/project-grants-scheme-specific-funding-rules-2016)
 - Advice and Instructions to Applicants: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/nhmrc-advice-and-instructions-applicants-index-2016) and [Project Grant specific](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/project-grants-scheme-specific-advice-and)
+-  [Grant Proposal template - revised version (mandatory)](https://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/development/2015/grant_proposal_template_-_2016_december_project_grants.docx)
 -  [Important information for applicants including key changes](https://www.nhmrc.gov.au/2016-project-grants-application-information)
 -  [Important peer review information](https://www.nhmrc.gov.au/2016-project-grants-peer-review-information)
--  [Grant Proposal template](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/projects/2015/final_2016_pg_grant_proposal_template.docx)
 -  [Project Category Grant Descriptors](https://www.nhmrc.gov.au/_files_nhmrc/file/grants/admin/project/attachment_a_2016_project_grants_category_descriptors_pdf_58kb.pdf)
 -  [Guidance for applicants to address the project grants assessment criteria](https://www.nhmrc.gov.au/_files_nhmrc/file/grants/admin/project/attachment_b_2016_guidance_for_applicants_pdf_46kb.pdf)
 -  [Project Grants Indigenous Category Descriptors](https://www.nhmrc.gov.au/_files_nhmrc/file/grants/admin/project/attachment_c_2016_project_grants_indigenous_category_descriptors_pdf_47kb.pdf)
@@ -122,7 +122,7 @@ RIC will then submit the application to NHMRC and CIA will receive a RGMS notifi
 - UoM Authority to Submit Form (to follow)
 - Suggested wording for CI & AI written consent (to follow)
 - Copies of previous successful Project Grant applications can be accessed via UOM login in the [RIC Library](http://grantslibrary.mro.unimelb.edu.au/). Applicants without UOM login should contact RIC staff via [email](mailto:nhmrc-people-support@unimelb.edu.edu.au) to request copies.
-- Information Seminars Part 1 and Part 2 - [access presentation slides](https://mro.unimelb.edu.au/professional-development/materials-past-seminars) and Project Grant Top Tips (pdf). Available to UOM applicants only & requires UOM login
+- Information Seminars Part 1 and Part 2 - [access presentation slides](https://mro.unimelb.edu.au/professional-development/materials-past-seminars) and [Project Grant Top Tips (pdf)](https://mro.unimelb.edu.au/system/files/project-grant-preparation-top-tips.pdf) (Available to UOM applicants only & requires UOM login)
 -  [Faculty Grant Coordinators/Mentors](http://research.unimelb.edu.au/funding/faculty-grant-coordinators.html)
 
 #### **Other**

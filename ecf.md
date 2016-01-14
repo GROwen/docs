@@ -4,15 +4,13 @@
 
 OverviewHow to applySupport documentsContacts [Manage your grant](http://research.unimelb.edu.au/funding/nhmrc/manage-your-grant.html)
 
-_The information and support documents on this scheme are for reference ONLY and will be updated as soon as the latest versions are available._
-
 ### **Critical dates**
 
 Wednesday **13 January 2016**
 
 **Applications open in RGMS**
 
-WEDNESDAY **27 January 2016**
+Wednesday **27 January 2016**
 
 **1**
 
@@ -45,7 +43,7 @@ The CI will need to obtain access to [RGMS](http://www.rgms.nhmrc.gov.au/) to co
 
 1. Review the funding documents
 
-The CI should read both the generic and scheme specific the NHMRC Funding Rules and the Advice and Instructions to Applicants which can be found on the [NHMRC website](http://www.nhmrc.gov.au/grants-funding/apply-funding/early-career-fellowships), as well as review the [UoM Lodgement Coversheet](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_lodgement_form_v3.docm) and [UoM Authority to Submit](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_2016_authoritytosubmit_v2_doc.docm) form.
+The CI should read both the generic and scheme specific the NHMRC Funding Rules and the Advice and Instructions to Applicants which can be found on the [NHMRC website](http://www.nhmrc.gov.au/grants-funding/apply-funding/early-career-fellowships), as well as review the [UoM Lodgement Coversheet](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_lodgement_form_v5_20160113.docx) and [UoM Authority to Submit](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_authoritytosubmit_v3_20161301doc.docx) form.
 
 1. Complete draft application in RGMS
 
@@ -66,7 +64,7 @@ Complete application in RGMS after taking feedback into consideration. Applicant
 
 - Applying for Heart Foundation or MSRA co-funding?
 
-If applying for co-funding with either of these organisations, a separate application must be made to them **in addition** to ticking the co-funding option in your NHMRC fellowship application. Heart Foundation applications are due to open in February 2015 (closing date to be advised) and MSRA applications are open now (applications close 29 March 2016).
+If applying for co-funding with either of these organisations, a separate application must be made to them in addition to ticking the co-funding option in your NHMRC fellowship application. Heart Foundation applications are due to open in February 2015 (closing date to be advised) and MSRA applications are open now (applications close 29 March 2016).
 
 Review and submission of Heart Foundation and MSRA applications will managed as a separate process in 2016 due to the variation in application deadlines. Further information on applying for Heart Foundation and MSRA applications will be made available via [Research Professional](http://research.unimelb.edu.au/funding/find-funding.html) shortly.
 
@@ -96,7 +94,7 @@ Once the application has been submitted to NHMRC, the CIA will receive RGMS noti
 -  [ECF Fellowship](http://www.nhmrc.gov.au/grants-funding/apply-funding/early-career-fellowships)
 - Funding Rules: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016) and [ECF Fellowship specific](http://www.nhmrc.gov.au/book/nhmrc-funding-rules-2016/early-career-fellowships-scheme-specific-funding-rules-funding): applicants must refer to both
 -  [Grant Proposal Template](https://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/fellowships/2015/grant_proposal_template_-_ecf_-_funding_commencing_2017.doc) (mandatory use)
-- Advice and Instructions to Applicants: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/nhmrc-advice-and-instructions-applicants-index-2016) and [ECF Fellowship specific](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/nhmrc-advice-and-instructions-applicants-index-1) – applicants must refer to both
+- Advice and Instructions to Applicants: [All Schemes](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/nhmrc-advice-and-instructions-applicants-index-2016) and [ECF Fellowship specific](http://www.nhmrc.gov.au/book/nhmrc-advice-and-instructions-applicants-2016/nhmrc-advice-and-instructions-applicants-index-1) applicants must refer to both
 -  [Guide to Peer Review](http://www.nhmrc.gov.au/book/guide-nhmrc-peer-review-2016/guide-nhmrc-peer-review-2016)
 -  [ECF Guide to Researchers](http://www.nhmrc.gov.au/_files_nhmrc/file/grants/apply/fellowships/ecf_guide_for_researchers_141114.pdf)
 -  [RGMS Character Count online tool](http://www.nhmrc.gov.au/_files_nhmrc/rgms_charcount/rgms_char_count.html?utm_medium=email&utm_campaign=NHMRC+Research+Tracker+-+6+February+2015&utm_content=NHMRC+Research+Tracker+-+6+February+2015+CID_18f41afa614855d6a629096152b72f52&utm_source=Mailbuild&utm_term=NHMRC%20website)
@@ -110,8 +108,8 @@ Once the application has been submitted to NHMRC, the CIA will receive RGMS noti
 
 #### **RIC**
 
--  [UoM Lodgement Coversheet](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_lodgement_form_v3.docm)
--  [UoM Authority to Submit form](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_2016_authoritytosubmit_v2_doc.docm)
+-  [UoM Lodgement Coversheet](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_lodgement_form_v5_20160113.docx)
+-  [UoM Authority to Submit form](http://research.unimelb.edu.au/funding/docs/nhmrc_ecf_authoritytosubmit_v3_20161301doc.docx)
 
 #### **Other**
 

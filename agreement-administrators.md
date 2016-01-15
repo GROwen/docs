@@ -79,7 +79,7 @@
 | 5050 | Melbourne School of Population and Global Health | [GRACEY, REBECCA](mailto:rgracey@unimelb.edu.au) [MAYHEW, TRACEY](mailto:t.mayhew@unimelb.edu.au) | Centre for Mental Health |
 | 5050 | Melbourne School of Population and Global Health | [DANN, TONY](mailto:tony.dann@unimelb.edu.au) | Nossal Institute for Global Health |
 | 5070 | Centre for Youth Mental Health | [PURCELL, ROSEMARY](mailto:rosie.purcell@orygen.org.au) |   |
-| ﻿﻿5100 | Melbourne Medical School | [ZEJNULA, FABIANA](mailto:fabiana.zejnula@unimelb.edu.au) |   |
+| 5100 | Melbourne Medical School | [ZEJNULA, FABIANA](mailto:fabiana.zejnula@unimelb.edu.au) |   |
 | 5110 | Melbourne Dental School | [THAKUR, VINITHA](mailto:vinitha.ethakur@unimelb.edu.au) |   |
 | 5120 | Melbourne School of Psychological Sciences | [THAKUR, VINITHA](mailto:vinitha.ethakur@unimelb.edu.au) |   |
 | 5130 | Physiotherapy | [THAKUR, VINITHA](mailto:vinitha.ethakur@unimelb.edu.au) |   |
@@ -145,8 +145,13 @@
 
 | **Dept. No.** | **Department** | **Administrator** | **Comment** |
 | --- | --- | --- | --- |
-| 7420 | Conservatorium of Music | [KHOURY, ANGELA](mailto:akhoury@unimelb.edu.au) |   |
-| 7500 | Victorian College of Arts | [KHOURY, ANGELA](mailto:akhoury@unimelb.edu.au) |   |
+| 7420 | Conservatorium of Music | [JIN, MS YING CLAIRE](mailto:ying.jin@unimelb.edu.au) |   |
+| 7500 | Victorian College of Arts |
+
+| [JIN, MS YING CLAIRE](mailto:ying.jin@unimelb.edu.au) |   |
+| --- | --- |
+
+  |   |
 
 ### **Other**
 
